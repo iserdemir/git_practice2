@@ -1,0 +1,4 @@
+This is a file that I added directly from github.com
+and now I'm about to commit directly to github.com remote repository
+This is not smt we would do normally
+we are hust trying simulate a situtaion where remote repository history is ahead of local repository history
